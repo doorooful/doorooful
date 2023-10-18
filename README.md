@@ -1,4 +1,11 @@
-### Hi there 👋
+![header](https://capsule-render.vercel.app/api?type=slice&color=gradient&height=160&section=header&text=Hi!%20I'm%20Dooroo!&fontAlign=50&fontAlignY=70&fontSize=90&fontColor=auto)
+ 
+<h3 align="center">🩵 🩵 🩵 🩵 🩵</h3>
+<p align="center">
+  <a href="https://blog.naver.com/doorooful"><img src="https://img.shields.io/badge/Personal%20Blog-11B48A?style=flat-square&logo=storyblok&logoColor=white&link=https://blog.naver.com/doorooful"/></a>&nbsp
+  <a href="https://www.instagram.com/d_r0oo/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=Instagram&logoColor=white&link=https://www.instagram.com/d_r0oo/"/></a>&nbsp
+  <a href="mailto:codingdooroo@gmail.com"><img src="https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=codingdooroo@gmail.com"/></a>
+</p>
 
 <!--
 **doorooful/doorooful** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
