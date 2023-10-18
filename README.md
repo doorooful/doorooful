@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=slice&color=gradient&height=160&section=header&text=Hi!%20I'm%20Dooroo!&fontAlign=50&fontAlignY=70&fontSize=90&fontColor=auto)
+![header](https://capsule-render.vercel.app/api?type=wave&color=gradient&height=300&section=header&text=Hi,%20I'm%20Dooroo!&fontAlign=50&fontAlignY=70&fontSize=90)
  
 <h3 align="center">🩵 🩵 🩵 🩵 🩵</h3>
 <p align="center">
