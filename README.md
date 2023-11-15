@@ -6,7 +6,7 @@
 And.. I have cute 🐶<i>Lupang</i>🐶 and 😼<i>Hanzo</i>🐯 <br /><br />
 💌 Hope we have an exciting doorooful day together!
 
-
+ 
 <!-- <hr>
   <div id="left" class="pull-left">
     <h3>Key Skills</h3>
