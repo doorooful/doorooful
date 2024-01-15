@@ -1,3 +1,15 @@
+**:mortar_board: BSc in Information Technology and Management (Mar. 2016 – Feb. 2024)**  
+  
+Seoul National University of Science and Technology, Seoul, KR  
+[Dual Degree with] Northumbria University, Newcastle, UK  
+  
+\<Notable Modules\>
+- Information Technology Project Management
+- Communications 2
+- Enterprise Resources Planning
+- Information Security
+
+<!--
 ![header](https://capsule-render.vercel.app/api?type=wave&color=gradient&height=200&section=header&text=Hi,%20I'm%20Dooroo!&fontAlign=50&fontAlignY=30&fontSize=50)
 <hr>
 👩‍💻 I'm Dooroo! <br /><br />
@@ -5,7 +17,7 @@
 😁 Currently I've been into ⚽️futsal and 🕹️online games in my free time.  <br /><br />
 And.. I have cute 🐶<i>Lupang</i>🐶 and 😼<i>Hanzo</i>🐯 <br /><br />
 💌 Hope we have an exciting doorooful day together!
-
+-->
  
 <!-- <hr>
   <div id="left" class="pull-left">
