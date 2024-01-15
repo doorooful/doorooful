@@ -1,6 +1,6 @@
 ![header](https://capsule-render.vercel.app/api?type=wave&color=gradient&height=200&section=header&text=Hi,%20I'm%20Dooroo!&fontAlign=50&fontAlignY=30&fontSize=50)
 <hr>
-👩‍💻 I'm <strong>software engineer</strong>, majored in IT Management. <br /><br />
+👩‍💻 I'm Dooroo! <br /><br />
 💡 About my key skills, I have various experience of IT projects within different software environments( Linux, Windows, Android )  <br /><br />
 😁 Currently I've been into ⚽️futsal and 🕹️online games in my free time.  <br /><br />
 And.. I have cute 🐶<i>Lupang</i>🐶 and 😼<i>Hanzo</i>🐯 <br /><br />
