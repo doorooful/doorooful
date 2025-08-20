@@ -1,3 +1,37 @@
+<!--
+# Hi there 👋
+
+**Code, Create, Teach ✨**  
+I'm **Dooroo**, a developer and instructor from Korea who loves turning ideas into real projects.  
+
+🎓 Graduated in **Information Technology Management**  
+- **SeoulTech** 🇰🇷  
+- **Northumbria University** 🇬🇧  
+
+---
+
+## 🚀 What I Do
+- CEO @ **Doorooful** | **Ace Coding Academy**  
+- Instructor @ **Youth Employment Academy (청년취업사관학교)**  
+- Coding instructor (Python, C, AI, IoT, Web & Mobile)  
+- Past projects with **DataTree**, **Secui**, **Chung-Ang Univ.**  
+- Former mentor @ **Soongsil Univ. SW Venture Startup Academy**  
+
+---
+
+💡 *“Coding is not just learning, it’s creating.”*  
+
+📫 **Let’s Connect**  
+- Email: codingdooroo@gmail.com
+- Office: **Ace Coding Academy** (에이스코딩학원), Korea
+
+
+## 🚀 My GitHub Journey
+-->
+![trophy](https://github-profile-trophy.vercel.app/?username=doorooful&theme=catppuccin_mocha&no-frame=true&row=1&column=6&margin-w=15&margin-h=15)
+
+
+<!--
 **:mortar_board: BSc in Information Technology and Management (Mar. 2016 – Feb. 2024)**  
   
 Seoul National University of Science and Technology, Seoul, KR  
@@ -8,6 +42,7 @@ Seoul National University of Science and Technology, Seoul, KR
 - Communications 2
 - Enterprise Resources Planning
 - Information Security
+-->
 
 <!--
 ![header](https://capsule-render.vercel.app/api?type=wave&color=gradient&height=200&section=header&text=Hi,%20I'm%20Dooroo!&fontAlign=50&fontAlignY=30&fontSize=50)
