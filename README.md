@@ -25,11 +25,12 @@ I'm **Dooroo**, a developer and instructor from Korea who loves turning ideas in
 - Email: codingdooroo@gmail.com
 - Office: **Ace Coding Academy** (에이스코딩학원), Korea
 
-
 ## 🚀 My GitHub Journey
 -->
-![trophy](https://github-profile-trophy.vercel.app/?username=doorooful&theme=catppuccin_mocha&no-frame=true&row=1&column=6&margin-w=15&margin-h=15)
 
+<!--
+![trophy](https://github-profile-trophy.vercel.app/?username=doorooful&theme=catppuccin_mocha&no-frame=true&row=1&column=6&margin-w=15&margin-h=15)
+-->
 
 <!--
 **:mortar_board: BSc in Information Technology and Management (Mar. 2016 – Feb. 2024)**  
